@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-live-website/static/css/main.72dc4bfe.chunk.css",
+    "main.js": "/React-live-website/static/js/main.8f9c40fc.chunk.js",
+    "main.js.map": "/React-live-website/static/js/main.8f9c40fc.chunk.js.map",
+    "runtime-main.js": "/React-live-website/static/js/runtime-main.ccd97a8c.js",
+    "runtime-main.js.map": "/React-live-website/static/js/runtime-main.ccd97a8c.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/React-live-website/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.ac3f56cc.chunk.js": "/React-live-website/static/js/2.ac3f56cc.chunk.js",
+    "static/js/2.ac3f56cc.chunk.js.map": "/React-live-website/static/js/2.ac3f56cc.chunk.js.map",
+    "index.html": "/React-live-website/index.html",
+    "precache-manifest.cd1e1e6bc427f63f267789eb3892b594.js": "/React-live-website/precache-manifest.cd1e1e6bc427f63f267789eb3892b594.js",
+    "service-worker.js": "/React-live-website/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/React-live-website/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.72dc4bfe.chunk.css.map": "/React-live-website/static/css/main.72dc4bfe.chunk.css.map",
+    "static/js/2.ac3f56cc.chunk.js.LICENSE.txt": "/React-live-website/static/js/2.ac3f56cc.chunk.js.LICENSE.txt",
+    "static/media/getstarted.jpg": "/React-live-website/static/media/getstarted.0cd447b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd97a8c.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.ac3f56cc.chunk.js",
+    "static/css/main.72dc4bfe.chunk.css",
+    "static/js/main.8f9c40fc.chunk.js"
+  ]
+}
